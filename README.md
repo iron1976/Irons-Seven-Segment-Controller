@@ -17,7 +17,7 @@ for counting numbers with delay use "array_print(int *arr, int array_length, int
 int arrr[14] = {1,9,7,6,0,1,2,3,4,5,6,7,8,9};<br />
 b->array_print(arrr, 14, 500);<br />
 
-<img src="https://cdn.discordapp.com/attachments/709732264962949160/789921927451902002/setup.PNG" width="1000">
+<img src="https://cdn.discordapp.com/attachments/709732264962949160/789921927451902002/setup.PNG" width="800">
 
 <h1>WARNING</h1>
 This library has been used on the anode 7 segment display NOT TRIED ON THE CATHODE 7 SEGMENT DISPLAY please use this on ON YOUR OWN RISK.

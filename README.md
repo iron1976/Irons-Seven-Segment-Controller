@@ -13,6 +13,21 @@ then creating the object. Ex:
 11: vcc, true for anode false for cathode
 digit_controller *b = new digit_controller(pins,11,true);
 for printing a number use "digit_print(int num)". Ex:
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
 b->digit_print(3);
 for counting numbers with delay use "array_print(int *arr, int array_length, int print_delay = 1000)". Ex:
 int arrr[14] = {1,9,7,6,0,1,2,3,4,5,6,7,8,9};

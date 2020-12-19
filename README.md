@@ -3,14 +3,10 @@ You need this because its really difficult to display numbers you need to give v
 
 
 <h1>Setup</h1>
-<body>
-All you need to do is assign your pins to the parameter of digit_controller variable with an array. Ex:
-</body>
-<body>
-  int pins[8];
-  for(int j = 3; j<= 10; j++)
-    pins[j-3] = j;
-</body>
+All you need to do is assign your pins to the parameter of digit_controller variable with an array. Ex:<br />
+  int pins[8];<br />
+  for(int j = 3; j<= 10; j++)<br />
+    pins[j-3] = j;<br />
 pins[] including : 3,4,5,6,7,8,9,10
 then creating the object. Ex:
 11: vcc, true for anode false for cathode

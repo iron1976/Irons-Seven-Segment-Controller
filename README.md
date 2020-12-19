@@ -1,4 +1,3 @@
-# Irons-Seven-Segment-Controller
 <h1>Why you need this?</h1>
 You need this because its really difficult to display numbers you need to give voltage one by one to the frames so i wasted my time to you not waste your time.
 
